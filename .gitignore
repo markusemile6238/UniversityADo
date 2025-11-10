@@ -57,7 +57,10 @@ nunit-*.xml
 appsettings.Development.json
 appsettings.Production.json
 appsettings.Local.json
+<<<<<<< HEAD
 appsettings.json
+=======
+>>>>>>> 55134168e3c77539ba93bedb2f1890df11375d3f
 *.user
 *.aps
 *.backup
